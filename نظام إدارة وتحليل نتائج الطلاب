@@ -1,0 +1,128 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8080/index.html
+Subject: =?utf-8?Q?=D9=86=D8=B8=D8=A7=D9=85=20=D8=A5=D8=AF=D8=A7=D8=B1=D8=A9=20=D9?=
+ =?utf-8?Q?=88=D8=AA=D8=AD=D9=84=D9=8A=D9=84=20=D9=86=D8=AA=D8=A7=D8=A6=D8?=
+ =?utf-8?Q?=AC=20=D8=A7=D9=84=D8=B7=D9=84=D8=A7=D8=A8?=
+Date: Sat, 07 Nov 2026 13:49:19 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--rxLDMt4SYTL9lNXqTY2ZBgYRL4psVtwkgk4yx7GjdH----"
+
+
+------MultipartBoundary--rxLDMt4SYTL9lNXqTY2ZBgYRL4psVtwkgk4yx7GjdH----
+Content-Type: text/html
+Content-ID: <frame-0961CEAC02172E5AAC9C4CC1C15A9B1C@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8080/index.html
+
+<!DOCTYPE html><html lang="ar" dir="rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-c42adb46-dbdd-46c3-8315-1e4c83f28896@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نظام إدارة وتحليل نتائج الطلاب</title>
+
+    
+</head>
+
+<body>
+
+<div class="container">
+
+    <h2>نظام إدارة وتحليل نتائج الطلاب</h2>
+
+    <table>
+        <tbody><tr>
+            <th>الاسم</th>
+            <th>المتوسط</th>
+            <th>التقدير</th>
+            <th>النتيجة</th>
+        </tr>
+
+        </tbody><tbody id="studentsTable">
+        <tr>
+            <td>Ahmed</td>
+            <td>90.00</td>
+            <td>A</td>
+            <td>ناجح</td>
+        </tr>
+    
+        <tr>
+            <td>sara</td>
+            <td>45.00</td>
+            <td>F</td>
+            <td>يحتاج مراجعة</td>
+        </tr>
+    
+        <tr>
+            <td>Mona</td>
+            <td>70.00</td>
+            <td>C</td>
+            <td>ناجح</td>
+        </tr>
+    
+        <tr>
+            <td>Ali</td>
+            <td>42.33</td>
+            <td>F</td>
+            <td>يحتاج مراجعة</td>
+        </tr>
+    </tbody>
+    </table>
+
+    <h3>لجنة الرأفة</h3>
+
+    <table>
+        <tbody><tr>
+            <th>الاسم</th>
+            <th>المتوسط القديم</th>
+            <th>المتوسط بعد الرأفة</th>
+        </tr>
+
+        </tbody><tbody id="mercyTable">
+        <tr>
+            <td>sara</td>
+            <td>45.00</td>
+            <td>50.00</td>
+        </tr>
+    
+        <tr>
+            <td>Ali</td>
+            <td>42.33</td>
+            <td>47.33</td>
+        </tr>
+    </tbody>
+    </table>
+
+    <h3 id="mercyAverage">متوسط درجات الطلاب بعد الرأفة: 43.67</h3>
+
+</div>
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--rxLDMt4SYTL9lNXqTY2ZBgYRL4psVtwkgk4yx7GjdH----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-c42adb46-dbdd-46c3-8315-1e4c83f28896@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial; background: rgb(234, 244, 255); text-align: center; padding: 20px; }
+
+h2 { color: rgb(23, 74, 126); }
+
+.container { background: white; padding: 20px; border-radius: 12px; max-width: 600px; margin: auto; }
+
+table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+
+th, td { border: 1px solid rgb(181, 204, 229); padding: 10px; }
+
+th { background: rgb(23, 74, 126); color: white; }
+
+td { background: rgb(244, 249, 255); }
+
+h3 { color: rgb(23, 74, 126); }
+------MultipartBoundary--rxLDMt4SYTL9lNXqTY2ZBgYRL4psVtwkgk4yx7GjdH------
